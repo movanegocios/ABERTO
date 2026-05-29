@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
         segmento: "Hamburgueria Artesanal",
         logoPrincipal: "logo.png",
         logoFavicon: "favicon.png",
-        tituloPagina: "DANO'S.Burger | Smash Burgers Artesanais",
+        tituloPagina: "DANO'S Burger | Smash Burgers Artesanais",
         descricaoSEO: "A melhor hamburgueria artesanal de Canasvieiras, Florianópolis. Peça seu Smash Burger agora por WhatsApp ou Delivery!",
         palavrasChaveSEO: "hamburgueria perto de mim, smash burger canasvieiras, delivery florianopolis, lanche artesanal"
     },
