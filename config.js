@@ -123,7 +123,7 @@ window.SITE_CONFIG = {
     },
 
     hero: {
-        videoSrc: "https://danosvideo.movanegocioslocais.workers.dev/",
+        videoSrc: "https://www.pexels.com/pt-br/download/video/35636124/",
         videoType: "auto",
         titulo: "DANO'S BURGER",
         subtitulo: "Smash Burgers artesanais. O verdadeiro sabor de Canasvieiras."
